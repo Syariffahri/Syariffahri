@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syariffahri
 - 👀 I’m interested in Flutter Front-End Dev, Game Development & Design
-- 🌱 I’m currently learning Mobile Programming
+- 🌱 I’m currently working as Frontend & Mobile Programming
 - 💞️ I’m looking to collaborate on of course, Google:)
 
 <!---
