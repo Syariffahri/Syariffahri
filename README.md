@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Syariffahri
-- 👀 I’m interested in Flutter Front-End Dev, Game Development & Design
-- 🌱 I’m currently working as Frontend & Mobile Programming
-- 💞️ I’m looking to collaborate on of course, Google:)
+Hi! I'm Syarif Fahri.
+Currently work as Mobile Developer using Flutter as a Framework with 2 years experience.
+Have developed applications with HTML5, CSS3, ES6, PHP, Dart.
+
+Contact me:
+fahri.ydrus@gmail.com
 
 <!---
 Syariffahri/Syariffahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
