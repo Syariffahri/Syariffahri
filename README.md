@@ -1,6 +1,6 @@
 Hi! I'm Syarif Fahri.
 Currently work as Mobile Developer using Flutter as a Framework with 2 years experience.
-Have developed applications with HTML5, CSS3, ES6, PHP, Dart.
+Have developed applications with HTML5, CSS3, JavaScript, PHP, Dart.
 
 Contact me:
 fahri.ydrus@gmail.com
