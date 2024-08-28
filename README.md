@@ -6,4 +6,4 @@ I have successfully developed an application that has been downloaded by more th
 
 Whether working independently or as part of a team, I thrive in collaborative environments and am passionate about continuously learning and improving my skills.
 
-Contact me: syariffahri26@gmail.com
+If you’re interested in my profile and would like to discuss potential opportunities, feel free to reach out at syariffahri26@gmail.com.
