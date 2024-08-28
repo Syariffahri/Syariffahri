@@ -1,5 +1,9 @@
-Hi! I'm Syarif Muhammad Fahri.
-Currently work as Mobile Developer using Flutter as a Framework with 3 years experience. Producing responsive and high-quality apps. Implement complex UI layouts and be able to have nice animations with custom widgets. RESTful API with http or dio packages and implementation with google firebase to login. Currently using GetX or BloC as state management. Familiar with handling issues in terms of UI, data, testing and debugging with cross-platform development. I always apply clean folder structure and clean coding too. I can work independently or as a team and like to be in a collaborative environment and have more passion. Committed to keep learning and be more active.
+Hi! I’m Syarif Muhammad Fahri, a Mobile Developer with 3 years of experience specializing in Flutter. I have a strong track record of producing responsive and high-quality apps, implementing complex UI layouts, and creating smooth animations with custom widgets. I am proficient in working with RESTful APIs using http or dio packages and have experience integrating Google Firebase for user authentication.
 
-Contact me:
-syariffahri26@gmail.com
+I currently use Riverpod or GetX for state management and am well-versed in handling UI, data, testing, and debugging challenges in cross-platform development. I consistently apply clean folder structures and clean coding practices in my work.
+
+I have successfully developed an application that has been downloaded by more than one million users, demonstrating my ability to create impactful and scalable solutions. My soft skills include problem-solving, effective communication, and time management, which enable me to work efficiently both independently and in team environments.
+
+Whether working independently or as part of a team, I thrive in collaborative environments and am passionate about continuously learning and improving my skills.
+
+Contact me: syariffahri26@gmail.com
