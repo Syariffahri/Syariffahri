@@ -1,9 +1,35 @@
-Hi! I’m Syarif Muhammad Fahri, a Mobile Developer with 3 years of experience specializing in Flutter. I have a strong track record of producing responsive and high-quality apps, implementing complex UI layouts, and creating smooth animations with custom widgets. I am proficient in working with RESTful APIs using http or dio packages and have experience integrating Google Firebase for user authentication.
+# Hi there, I'm Syarif Muhammad Fahri! 👋
+### Senior Mobile Developer (Flutter)
 
-I currently use Riverpod or GetX for state management and am well-versed in handling UI, data, testing, and debugging challenges in cross-platform development. I consistently apply clean folder structures and clean coding practices in my work.
+I am a Flutter specialist with **5+ years of experience** in architecting scalable mobile applications. I focus on Clean Architecture, performance optimization, and building apps that deliver real impact—including projects with over **2 Million downloads**.
 
-I have successfully developed an application that has been downloaded by more than one million users, demonstrating my ability to create impactful and scalable solutions. My soft skills include problem-solving, effective communication, and time management, which enable me to work efficiently both independently and in team environments.
+Currently, I'm passionate about exploring advanced UI/UX and robust state management solutions.
 
-Whether working independently or as part of a team, I thrive in collaborative environments and am passionate about continuously learning and improving my skills.
+---
 
-If you’re interested in my profile and would like to discuss potential opportunities, feel free to reach out at syariffahri26@gmail.com.
+### 🛠 Tech Stack & Tools
+
+* **Languages**: Dart, Kotlin (Basic), Swift (Basic)
+* **Framework**: Flutter (Expert)
+* **State Management**: Riverpod (Preferred), BLoC
+* **Architecture**: Clean Architecture, SOLID Principles, MVVM
+* **Backend & APIs**: RESTful APIs (Dio/Http), Google Firebase
+* **Tools**: Git, CI/CD, Trello, Jira
+
+---
+
+### 🚀 Key Achievements
+
+* [cite_start]🏆 Contributed to an EdTech application reaching **2 Million+ Downloads**.
+* 📦 Built high-performance E-commerce & Donation platforms with complex payment integrations.
+* ⚡ Expert in creating custom animations and responsive UI for diverse screen sizes.
+
+---
+
+### 📫 Let's Connect!
+
+I am open to discussing potential opportunities, collaborations, or just sharing knowledge about Flutter.
+
+* 📧 **Email**: [syariffahri26@gmail.com](mailto:syariffahri26@gmail.com)
+* 💼 **LinkedIn**: [linkedin.com/in/username-anda](link-linkedin-anda)
+* 📂 **Portfolio**: [link-portfolio-anda](link-portfolio-anda)
