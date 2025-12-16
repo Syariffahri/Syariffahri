@@ -20,7 +20,7 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 
 ### 🚀 Key Achievements
 
-* [cite_start]🏆 Contributed to an EdTech application reaching **2 Million+ Downloads**.
+* 🏆 Contributed to an EdTech application reaching **2 Million+ Downloads**.
 * 📦 Built high-performance E-commerce & Donation platforms with complex payment integrations.
 * ⚡ Expert in creating custom animations and responsive UI for diverse screen sizes.
 
@@ -31,5 +31,5 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 I am open to discussing potential opportunities, collaborations, or just sharing knowledge about Flutter.
 
 * 📧 **Email**: [syariffahri26@gmail.com](mailto:syariffahri26@gmail.com)
-* 💼 **LinkedIn**: [linkedin.com/in/username-anda](link-linkedin-anda)
-* 📂 **Portfolio**: [link-portfolio-anda](link-portfolio-anda)
+* 💼 **LinkedIn**: https://www.linkedin.com/in/syarif-muhammad-fahri/
+* 📂 **Portfolio**: Coming soon!
