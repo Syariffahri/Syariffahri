@@ -1,7 +1,7 @@
 # Hi there, I'm Syarif Muhammad Fahri! 👋
 ### Senior Mobile Developer (Flutter)
 
-I am a Flutter specialist with **5+ years of experience** in architecting scalable mobile applications. I focus on Clean Architecture, performance optimization, and building apps that deliver real impact—including projects with over **2 Million downloads**.
+I am a Flutter specialist with **5+ years of experience** in architecting scalable mobile applications. I focus on Clean Architecture, performance optimization, and building apps that deliver real impact—including projects with over **1 Million downloads**.
 
 Currently, I'm passionate about exploring advanced UI/UX and robust state management solutions.
 
