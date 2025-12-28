@@ -20,7 +20,7 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 
 ### 🚀 Key Achievements
 
-* 🏆 Contributed to an EdTech application reaching **2 Million+ Downloads**.
+* 🏆 Contributed to an EdTech application reaching **1 Million+ Downloads**.
 * 📦 Built high-performance E-commerce & Donation platforms with complex payment integrations.
 * ⚡ Expert in creating custom animations and responsive UI for diverse screen sizes.
 
