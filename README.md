@@ -26,7 +26,7 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I am open to discussing potential opportunities, collaborations, or just sharing knowledge about Flutter.
 
