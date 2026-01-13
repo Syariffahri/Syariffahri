@@ -7,7 +7,7 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Languages**: Dart, Kotlin (Basic), Swift (Basic)
 * **Framework**: Flutter (Expert)
@@ -18,11 +18,11 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 
 ---
 
-### 🚀 Key Achievements
+### Key Achievements
 
-* 🏆 Contributed to an EdTech application reaching **1 Million+ Downloads**.
-* 📦 Built high-performance E-commerce & Donation platforms with complex payment integrations.
-* ⚡ Expert in creating custom animations and responsive UI for diverse screen sizes.
+* Contributed to an EdTech application reaching **1 Million+ Downloads**.
+* Built high-performance E-commerce & Donation platforms with complex payment integrations.
+* Expert in creating custom animations and responsive UI for diverse screen sizes.
 
 ---
 
@@ -30,6 +30,6 @@ Currently, I'm passionate about exploring advanced UI/UX and robust state manage
 
 I am open to discussing potential opportunities, collaborations, or just sharing knowledge about Flutter.
 
-* 📧 **Email**: [syariffahri26@gmail.com](mailto:syariffahri26@gmail.com)
-* 💼 **LinkedIn**: https://www.linkedin.com/in/syarif-muhammad-fahri/
-* 📂 **Portfolio**: (https://syariffahri.github.io/portfolio-fahri/)
+* **Email**: [syariffahri26@gmail.com](mailto:syariffahri26@gmail.com)
+* **LinkedIn**: https://www.linkedin.com/in/syarif-muhammad-fahri/
+* **Portfolio**: (fahridrus.com)
